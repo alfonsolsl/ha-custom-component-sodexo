@@ -5,16 +5,16 @@ PLATFORM = "sensor"
 DOMAIN_DATA = f"{DOMAIN}_data"
 
 DEFAULT_ICON = "mdi:credit-card"
-UNIT_OF_MEASUREMENT = "€"
+UNIT_OF_MEASUREMENT = "$"
 
-ATTRIBUTION = "Data provided by https://www.sodexobeneficios.pt/"
+ATTRIBUTION = "Data provided by https://www.sodexo.pa/"
 
-LOGIN_URL = "https://login.sodexobeneficios.pt/login_processing.php"
+LOGIN_URL = "https://autogestion.valepanama.com/valepub/sstlogin.aspx"
 MINHACONTA_URL = "https://minhaconta.sodexobeneficios.pt/"
 
 LOGIN_URL_BR = "https://www.sodexobeneficios.com.br/sodexo-club/login/"
 
-COUNTRY_PT = "Portugal"
+COUNTRY_PT = "Panama"
 
 CONF_COUNTRY = "country"
 CONF_USERNAME = "username"
